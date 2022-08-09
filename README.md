@@ -1,4 +1,4 @@
-## Hi, my name is Denis! ![](https://www.codewars.com/users/denns2002/badges/micro)<br>
+## Hi, my name is Denis! ![](https://www.codewars.com/users/denns2002/badges/large)<br>
 #### I am Python Developer
 ![I am Python Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
