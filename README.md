@@ -12,8 +12,7 @@ For the most part the projects here are educational, but someday something worth
 
   ![](https://www.codewars.com/users/denns2002/badges/small)
 
-- 🔭 I’m currently working on 1 
-- 🌱 I’m currently learning everything I need for this or that project, a programmer is an eternal student! 
+🌱 I’m currently learning everything I need for this or that project, a programmer is an eternal student! 
 
 <h3 align="left">Connect with me:</h3>
   
