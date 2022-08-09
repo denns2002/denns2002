@@ -1,6 +1,4 @@
-## Hi, my name is Denis
-### I am Python Developer <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>
-![I am Python Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Python Developer](https://github.com/denns2002/denns2002/blob/main/0062.png?raw=true)
 
 For the most part the projects here are educational, but someday something worthwhile will come along.
 
