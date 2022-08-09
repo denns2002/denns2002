@@ -1,4 +1,4 @@
-## Hi, my name is Denis!
+<h2> Hi, my name is Denis! </h2>
 ### I am Python Developer
 ![I am Python Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
