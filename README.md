@@ -1,5 +1,5 @@
-# Hi, my name is Denis
-### I am Python Developer
+## Hi, my name is Denis
+### I am Python Developer <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 ![I am Python Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 For the most part the projects here are educational, but someday something worthwhile will come along.
