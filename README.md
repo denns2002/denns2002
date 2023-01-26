@@ -8,3 +8,5 @@ I like **Python** programming (Backend and other), sometimes I like to do **JS**
  
 
 🌱 I’m currently learning everything I need for this or that project, a programmer is an eternal student!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
