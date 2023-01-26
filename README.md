@@ -1,19 +1,18 @@
 ![](123112.png)
 
 <h1 align="center">Hey there, I'm Denis!<a href="https://discord.gg/Deniska#5379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deniska#5379" height="40" width="40" /></a></h1>
-[!](https://www.codewars.com/users/denns2002/badges/micro)
+
 💬 I love and study programming. I study both web development and other areas of interest to me. 
 For the most part the projects here are educational, but someday something worthwhile will come along.
 
-I like **Python** programming (Backend and other), sometimes I like to do **JS** buttons, layout in **HTML**, **Sass**, and sometimes I get to do projects in **C#**. From time to time I solve tasks related to **SQL**. 👾
-
-
-🌱 I’m currently learning everything I need for this or that project, a programmer is an eternal student!
-
-
+I like **Python** programming (Backend and other), sometimes I like to do **JS** buttons, layout in **HTML**, **Sass** (which I don't usually post here), and sometimes I get to do projects in **C#**. From time to time I solve tasks related to **SQL**. 👾
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denns2002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://matplotlib.org/matplotblog/posts/animated-fractals/julia_set.gif" alt="drawing" width="165"/>
+<img src="https://matplotlib.org/matplotblog/posts/animated-fractals/julia_set.gif" alt="drawing" width="165" height="165"/>
+
+<sub>Yes! It's matplotlib fractal for fractal's sake!</sub>
+
+Below you can see the full stack that I plus-minus often interact with.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -30,4 +29,5 @@ I like **Python** programming (Backend and other), sometimes I like to do **JS**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+🌱 I’m currently learning everything I need for this or that project, a programmer is an eternal student!
 
